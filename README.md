@@ -20,4 +20,4 @@ Here,DHT11 Temperature and humidity sensor has been used. DHT pin is connected t
 
 2>Retrieval:When Button 2 is pressed (grounded)and Button 1 open.
 
-It has been simulated in Proteus Software. Atmega128 is being used(at 16Mhz).The hex file for this is generated using Atmel Studio 6. The values are displayed over LCD. The schematic is shown below:
+It has been simulated in Proteus Software. Atmega128 is being used(at 16Mhz).The hex file for this is generated using Atmel Studio 6. The values are displayed over LCD. The schematic can be found in repository(simulated in Proteus)
